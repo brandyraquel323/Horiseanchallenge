@@ -44,6 +44,15 @@ body {
 }
 /*header style ends here*/
 
+/*body starts here*/
+body {
+    background-color: #d9dcd6;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -123,6 +132,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*body end here*/
 
 /*footer style starts*/
 .footer {
