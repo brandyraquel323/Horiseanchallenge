@@ -11,7 +11,7 @@ https://github.com/brandyraquel323/Horiseanchallenge.git
 
 
 Link to Deployed application:
-https://brandyraquel323.github.io/Horiseanchallenge/https://brandyraquel323.github.io/Horiseanchallenge/
+https://brandyraquel323.github.io/Horiseanchallenge/
 
 
 
